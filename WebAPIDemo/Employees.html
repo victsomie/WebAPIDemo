@@ -1,0 +1,205 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <script src="Scripts/jquery-1.10.2.js"></script>
+    <style>
+        .employeeEditx {
+            visibility: hidden;
+        }
+    </style>
+
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            var ulEmployees = $('#ulEmployees');
+
+            // SHOWING ALL EMPLOYEES
+            $('#btn').click(function () {
+                $.ajax({
+                    type: 'GET',
+                    url: 'api/Employees',
+                    dataType: 'json',
+                    success: function (data) {
+                        ulEmployees.empty();
+                        $.each(data, function (index, value) {
+                            var fullName = value.FirstName + ' ' + value.LastName + ' ' + value.Gender+  ' ' +   value.ID;
+                            ulEmployees.append('<li>'
+                                + fullName
+                                + '<a ' + 'class = "' + 'employeeId' + '"' + ' href = "' + value.ID + '" id="' + value.ID + '"' + ">" + "DELETE" + '</a>'
+                                + '<a ' + 'class = "' + 'employeeEdit' + '"' + ' href = "' + value.ID + '" id="' + value.ID + '"' + ">" + "EDIT" + '</a>'
+                                + '</li>');
+                        });
+                    }
+                });
+            });
+
+
+            // DELETING A SELECTED EMMPLOYEE
+            $("#ulEmployees").on("click",
+                ".employeeId",
+                function (e) {
+                    e.preventDefault();
+                    var rowid = $(this).attr("id");
+                    console.log(rowid)
+                    $.ajax({
+                        type: 'DELETE',
+                        url: 'api/Employees/' + rowid,
+                        dataType: 'json',
+                        success: function (data) {
+
+                            // $('#txtFirstName').val('');
+                            // $('#txtLastName').val('');
+                            // $('#txtGender').val('');
+                            //ulEmployees.append('<li>' + data.FirstName + "  "+ data.LastName+ '</li>');
+                            //ulEmployees.append('<li>' + data.FirstName + "  "+ data.LastName+ '</li>');
+                            // ulEmployees.append(data);
+
+                        }
+                    });
+                });
+
+
+            var rowid;
+            $('#ulEmployees').on("click", ".employeeEdit",
+                function (e) {
+                    e.preventDefault();
+
+                    // Returning the ID of the selected item in the list
+                    rowid = $(this).attr("id");
+
+                    var firstName;
+                    var lastName;
+                    var gender;
+                    console.log(rowid);
+
+                    // =====================================================
+                    $.ajax({
+                        type: 'GET',
+                        url: 'api/Employees/' + rowid,
+                        dataType: 'json',
+                        success: function (data) {
+                            firstName = data.FirstName;
+                            lastName = data.LastName;
+                            gender = data.Gender;
+                            console.log(firstName);
+
+
+                            // Preload the edit fields
+                            $('#txtEditFirstName').val(firstName);
+                            $('#txtEditLastName').val(lastName);
+                            $('#txtEditGender').val(gender);
+
+                            /*
+                            //ulEmployees.empty();
+                            $.each(data, function (index, value) {
+
+                                firstName = value.FirstName;
+                                lastName = value.LastName;
+                                gender = value.Gender;
+
+                            });
+                            */
+                        }
+                    });
+
+                    // =====================================================
+
+
+                });
+
+            // On click the clear button
+            $('#btnClear').click(function () {
+                ulEmployees.empty();
+            });
+
+            $('#btnSubmitRegister').click(function () {
+                $('#txtFirstName').val();
+                $.ajax({
+                    type: 'POST',
+                    url: 'api/Employees',
+                    dataType: 'json',
+                    data: {
+                        FirstName: $('#txtFirstName').val(),
+                        LastName: $('#txtLastName').val(),
+                        Gender: $('#txtGender').val()
+                    },
+                    success: function (data) {
+                        $('#txtFirstName').val('');
+                        $('#txtLastName').val('');
+                        $('#txtGender').val('');
+                        //ulEmployees.append('<li>' + data.FirstName + "  "+ data.LastName+ '</li>');
+                        //ulEmployees.append('<li>' + data.FirstName + "  "+ data.LastName+ '</li>');
+                        ulEmployees.append(data);
+                    }
+                });
+            });
+
+            $('#btnSubmitEdit').click(function () {
+                console.log(rowid + '-----------------');
+
+                // Getting the value from the fields
+                firstName = $('#txtEditFirstName').val();
+                lastName = $('#txtEditLastName').val();
+                gender = $('#txtEditGender').val();
+                // =============
+
+                $.ajax({
+                    type: 'PUT',
+                    //url: 'api/Employees/' + rowid + '?', //FirstName={' + firstName + '}&LastName={' + lastName + '}&Gender={' + gender + '}&Salary={0}',
+
+                    url: 'api/Employees/' + rowid + '?' ,
+                    //url: 'api/Employees/' + rowid + '?' + 'FirstName=\'' + firstName + '\'&LastName=\'' + lastName + '\'&Gender=\'' + gender + '\'&Salary=0',
+
+                    //url: api/Employees/{ID}?FirstName={FirstName}&LastName={LastName}&Gender={Gender}&Salary={Salary},
+                    //url: 'api/Employees/' + rowid,
+                    //data: { 'FirstName': firstName, 'LastName': lastName, 'Gender': gender },
+                    dataType: 'json',
+                    data: {
+                        firstName: $('#txtEditFirstName').val(),
+                        lastName: $('#txtEditLastName').val(),
+                        gender: $('#txtEditGender').val()
+                    },
+
+                    success: function (result) {
+                        console.log(rowid);
+
+                        $('#txtEditFirstName').val('');
+                        $('#txtEditLastName').val('');
+                        $('#txtEditGender').val('');
+
+                    }
+                });
+
+                // =============
+            });
+        });
+
+    </script>
+</head>
+<body>
+    <input id="btn" type="button" value="Get all employees" />
+    <input id="btnClear" type="button" value="Clear the list" />
+
+    <ul id="ulEmployees"></ul> 
+
+    <div>
+        <textarea maxlength="60" placeholder="First Name" id="txtFirstName"></textarea>
+        <textarea maxlength="15" placeholder="Last Name" id="txtLastName"></textarea>
+        <textarea maxlength="2" placeholder="Gender" id="txtGender"></textarea>
+
+        <button id="btnSubmitRegister">REGISTER EMPLOYEE</button>
+    </div>
+
+    <div id="formEditEmployee">
+        <textarea maxlength="15" placeholder="First Name" id="txtEditFirstName"></textarea>
+        <textarea maxlength="15" placeholder="Last Name" id="txtEditLastName"></textarea>
+        <textarea maxlength="1" placeholder="Gender" id="txtEditGender"></textarea>
+
+        <button id="btnSubmitEdit">SUBMIT EDIT EMPLOYEE</button>
+    </div>
+
+
+</body>
+</html>

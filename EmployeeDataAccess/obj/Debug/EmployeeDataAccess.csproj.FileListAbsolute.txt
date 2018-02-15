@@ -1,0 +1,30 @@
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
+C:\Users\MMc\Documents\Visual Studio 2015\Projects\WebAPIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache
+D:\Code Home\WebAPIDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+D:\Code Home\WebAPIDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+D:\Code Home\WebAPIDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+D:\Code Home\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+D:\Code Home\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Code Home\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+D:\Code Home\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Code Home\WebAPIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache
+D:\Code Home\WebAPIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+D:\Code Home\WebAPIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache

@@ -1,0 +1,291 @@
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\ApplicationInsights.config
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\roslyn\csc.exe
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\roslyn\vbc.exe
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\roslyn\VBCSCompiler.exe
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.dll.config
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.pdb
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Antlr3.Runtime.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\EntityFramework.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\EntityFramework.SqlServer.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.Web.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.ApplicationInsights.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Google.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.Web.Infrastructure.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Newtonsoft.Json.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Owin.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Net.Http.Formatting.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Web.Helpers.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.Owin.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.WebHost.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Web.Mvc.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Web.Optimization.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Web.Razor.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Deployment.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Razor.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\WebGrease.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.Web.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.ApplicationInsights.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Newtonsoft.Json.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Net.Http.Formatting.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Web.Helpers.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.WebHost.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Web.Mvc.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Web.Optimization.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Web.Razor.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Deployment.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Razor.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Antlr3.Runtime.pdb
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\EntityFramework.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\EntityFramework.SqlServer.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Google.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.Owin.xml
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.csprojResolveAssemblyReference.cache
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.pdb
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\EmployeeDataAccess.dll
+c:\users\mmc\documents\visual studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\EmployeeDataAccess.pdb
+C:\Users\MMc\Documents\Visual Studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\WebApiContrib.Formatting.Jsonp.dll
+C:\Users\MMc\Documents\Visual Studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\WebApiContrib.Formatting.Jsonp.pdb
+C:\Users\MMc\Documents\Visual Studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Web.Cors.dll
+C:\Users\MMc\Documents\Visual Studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.Cors.dll
+C:\Users\MMc\Documents\Visual Studio 2015\Projects\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.Cors.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\ApplicationInsights.config
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\roslyn\csc.exe
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\roslyn\vbc.exe
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\roslyn\VBCSCompiler.exe
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.dll.config
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.pdb
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Antlr3.Runtime.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\EmployeeDataAccess.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\EntityFramework.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\EntityFramework.SqlServer.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.DependencyCollector.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.Web.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.WindowsServer.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.ApplicationInsights.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Google.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Newtonsoft.Json.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Owin.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Net.Http.Formatting.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Web.Cors.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Web.Helpers.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.Cors.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.Owin.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.WebHost.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Web.Mvc.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Web.Optimization.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Web.Razor.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Deployment.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Razor.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\WebApiContrib.Formatting.Jsonp.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\WebGrease.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\EmployeeDataAccess.pdb
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.DependencyCollector.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.Web.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.WindowsServer.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.ApplicationInsights.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.Cors.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Newtonsoft.Json.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Net.Http.Formatting.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Web.Helpers.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.WebHost.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Web.Mvc.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Web.Optimization.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Web.Razor.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Deployment.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Razor.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\WebApiContrib.Formatting.Jsonp.pdb
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Antlr3.Runtime.pdb
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\EntityFramework.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\EntityFramework.SqlServer.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Google.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.Owin.xml
+D:\Code Home\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.csprojResolveAssemblyReference.cache
+D:\Code Home\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.dll
+D:\Code Home\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.pdb
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\ApplicationInsights.config
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\roslyn\csc.exe
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\roslyn\vbc.exe
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.dll.config
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\WebAPIDemo.pdb
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Antlr3.Runtime.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\EmployeeDataAccess.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\EntityFramework.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.Web.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Newtonsoft.Json.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Owin.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Net.Http.Formatting.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Web.Cors.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Web.Helpers.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.Cors.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.Owin.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.WebHost.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Web.Mvc.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Web.Optimization.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Web.Razor.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\WebApiContrib.Formatting.Jsonp.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\WebGrease.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\EmployeeDataAccess.pdb
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.Web.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.Cors.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Newtonsoft.Json.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Net.Http.Formatting.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Web.Helpers.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.WebHost.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Web.Mvc.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Web.Optimization.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Web.Razor.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\WebApiContrib.Formatting.Jsonp.pdb
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Antlr3.Runtime.pdb
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\EntityFramework.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\bin\System.Web.Http.Owin.xml
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.csprojResolveAssemblyReference.cache
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.dll
+C:\Users\MMc\Documents\SCHOOL LEARNING\VICTOR\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.pdb
